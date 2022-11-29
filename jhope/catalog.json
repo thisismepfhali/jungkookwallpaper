@@ -54,5 +54,19 @@
 	"author": "artmosphere",
 	"site": "",
 	"test": false
+	},
+	{
+	"id": "00008",
+	"title": "Arson",
+	"author": "artmosphere",
+	"site": "",
+	"test": false
+	},
+	{
+	"id": "00009",
+	"title": "Jack In The Box",
+	"author": "artmosphere",
+	"site": "",
+	"test": false
 	}
 ]
