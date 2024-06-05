@@ -44,84 +44,98 @@
 	{
 		"id": "00006",
 		"title": "Billy Poco'",
-		"author": "Solo Leveling 😻",
+		"author": "Solo Leveling😻",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00007",
 		"title": "10 Months",
-		"author": "Solo Leveling 😁",
+		"author": "Solo Leveling😁",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00008",
 		"title": "Drunk-Dazed",
-		"author": "Solo Leveling 😎",
+		"author": "Solo Leveling😎",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00009",
 		"title": "Fever",
-		"author": "Solo Leveling 😜",
+		"author": "Solo Leveling😜",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00010",
 		"title": "Given-Taken",
-		"author": "Solo Leveling 😇",
+		"author": "Solo Leveling😇",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00011",
 		"title": "Tamed-Dashed",
-		"author": "Solo Leveling 😍",
+		"author": "Solo Leveling😍",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00012",
 		"title": "Future Perfect (Pass the MIC)",
-		"author": "Solo Leveling 🤩",
+		"author": "Solo Leveling🤩",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00013",
 		"title": "Blessed-Cursed",
-		"author": "Solo Leveling 🤗",
+		"author": "Solo Leveling🤗",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00014",
 		"title": "Go Big or Go Home",
-		"author": "Solo Leveling 😋",
+		"author": "Solo Leveling😋",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00015",
 		"title": "ParadoXXX Invasion",
-		"author": "Solo Leveling 😁",
+		"author": "Solo Leveling😁",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00016",
 		"title": "Upper Side Dreamin'",
-		"author": "Solo Leveling 🍎",
+		"author": "Solo Leveling🍎",
 		"site": "",
 		"test": false
 	},
 	{
 		"id": "00017",
 		"title": "Attention, Please!",
-		"author": "Solo Leveling 🍓",
+		"author": "Solo Leveling🍓",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00018",
+		"title": "Mixed Up",
+		"author": "Solo Leveling🍒",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00019",
+		"title": "Go Big or Go Home",
+		"author": "Solo Leveling🍉",
 		"site": "",
 		"test": false
 	}
