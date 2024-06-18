@@ -68,5 +68,19 @@
         "author": "astral_poet",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00010",
+        "title": "Mystic Horizons",
+        "author": "celestialDreamer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00011",
+        "title": "Eternal Twilight",
+        "author": "galaxyVisionary",
+        "site": "",
+        "test": false
     }
 ]
