@@ -82,5 +82,19 @@
         "author": "galaxyVisionary",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00012",
+        "title": "Quantum Realms",
+        "author": "cosmosExplorer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00013",
+        "title": "Infinite Horizons",
+        "author": "starlightSeeker",
+        "site": "",
+        "test": false
     }
 ]
