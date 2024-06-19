@@ -152,5 +152,19 @@
         "author": "galaxyAdventurer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00022",
+        "title": "Cosmic Horizons",
+        "author": "stellarExplorer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00023",
+        "title": "Astral Legends",
+        "author": "orbitNavigator",
+        "site": "",
+        "test": false
     }
 ]
