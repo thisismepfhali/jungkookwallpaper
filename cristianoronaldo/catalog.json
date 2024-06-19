@@ -138,5 +138,19 @@
         "author": "universeDreamer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00020",
+        "title": "Luminous Skies",
+        "author": "skyWatcher",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00021",
+        "title": "Nebula Dreams",
+        "author": "galaxyAdventurer",
+        "site": "",
+        "test": false
     }
 ]
