@@ -110,5 +110,19 @@
         "author": "nebulaNavigator",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00016",
+        "title": "Stellar Chronicles",
+        "author": "starGazer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00017",
+        "title": "Orbital Odyssey",
+        "author": "planetaryScribe",
+        "site": "",
+        "test": false
     }
 ]
