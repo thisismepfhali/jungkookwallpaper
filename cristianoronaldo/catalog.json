@@ -166,5 +166,19 @@
         "author": "orbitNavigator",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00024",
+        "title": "Galactic Legends",
+        "author": "celestialNavigator",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00025",
+        "title": "Quantum Dreams",
+        "author": "stellarDreamer",
+        "site": "",
+        "test": false
     }
 ]
