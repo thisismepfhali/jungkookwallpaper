@@ -124,5 +124,19 @@
         "author": "planetaryScribe",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00018",
+        "title": "Celestial Voyage",
+        "author": "cosmicWanderer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00019",
+        "title": "Eternal Cosmos",
+        "author": "universeDreamer",
+        "site": "",
+        "test": false
     }
 ]
