@@ -180,5 +180,19 @@
         "author": "stellarDreamer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00026",
+        "title": "Infinite Cosmos",
+        "author": "cosmicSeeker",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00027",
+        "title": "Starlit Pathways",
+        "author": "lunarVoyager",
+        "site": "",
+        "test": false
     }
 ]
