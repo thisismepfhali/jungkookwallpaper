@@ -194,5 +194,33 @@
         "author": "lunarVoyager",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00028",
+        "title": "Orbital Dreams",
+        "author": "planetExplorer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00029",
+        "title": "Eternal Starshine",
+        "author": "stellarNavigator",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00030",
+        "title": "Galactic Wonders",
+        "author": "nebulaSeeker",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00031",
+        "title": "Astral Expeditions",
+        "author": "spaceDreamer",
+        "site": "",
+        "test": false
     }
 ]
