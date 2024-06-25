@@ -250,5 +250,19 @@
         "author": "universeTraveler",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00036",
+        "title": "Quantum Odyssey",
+        "author": "stellarPioneer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00037",
+        "title": "Astral Realms",
+        "author": "galaxyDreamer",
+        "site": "",
+        "test": false
     }
 ]
