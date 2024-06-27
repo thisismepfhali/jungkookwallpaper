@@ -278,5 +278,19 @@
         "author": "spaceExplorer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00040",
+        "title": "Celestial Mysteries",
+        "author": "astroNavigator",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00041",
+        "title": "Galactic Journeys",
+        "author": "nebulaVoyager",
+        "site": "",
+        "test": false
     }
 ]
