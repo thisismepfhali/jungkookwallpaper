@@ -138,5 +138,33 @@
 		"author": "artmosphere🍑",
 		"site": "",
 		"test": false
+	},
+	{
+		"id": "00020",
+		"title": "Not Today",
+		"author": "artmosphere🐥",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00021",
+		"title": "Idol",
+		"author": "artmosphere🍒",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00022",
+		"title": "Blood Sweat & Tears",
+		"author": "artmosphere🐢",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00023",
+		"title": "Fire",
+		"author": "artmosphere🍊",
+		"site": "",
+		"test": false
 	}
 ]
