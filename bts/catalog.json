@@ -194,5 +194,19 @@
 		"author": "artmosphere🍓",
 		"site": "",
 		"test": false
+	},
+	{
+		"id": "00028",
+		"title": "Epiphany",
+		"author": "artmosphere🦓",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00029",
+		"title": "Magic Shop",
+		"author": "artmosphere🍏",
+		"site": "",
+		"test": false
 	}
 ]
