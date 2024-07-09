@@ -376,5 +376,19 @@
         "author": "astralAdventurer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00054",
+        "title": "Lunar Adventures",
+        "author": "moonSeeker",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00055",
+        "title": "Celestial Whispers",
+        "author": "starryNavigator",
+        "site": "",
+        "test": false
     }
 ]
