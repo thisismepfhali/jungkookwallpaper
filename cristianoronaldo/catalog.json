@@ -404,5 +404,19 @@
         "author": "cosmicDreamer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00058",
+        "title": "Stellar Journeys",
+        "author": "universeAdventurer",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00059",
+        "title": "Astral Frontiers",
+        "author": "spaceNavigator",
+        "site": "",
+        "test": false
     }
 ]
