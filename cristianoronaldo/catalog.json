@@ -418,5 +418,19 @@
         "author": "spaceNavigator",
         "site": "",
         "test": false
+    },
+     {
+        "id": "00060",
+        "title": "Galactic Horizons",
+        "author": "cosmicVoyager",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00061",
+        "title": "Nebula Legends",
+        "author": "stellarExplorer",
+        "site": "",
+        "test": false
     }
 ]
