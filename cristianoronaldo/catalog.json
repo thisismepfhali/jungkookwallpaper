@@ -432,5 +432,19 @@
         "author": "stellarExplorer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00062",
+        "title": "Quantum Mysteries",
+        "author": "astralNavigator",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00063",
+        "title": "Cosmic Legends",
+        "author": "universeDreamer",
+        "site": "",
+        "test": false
     }
 ]
