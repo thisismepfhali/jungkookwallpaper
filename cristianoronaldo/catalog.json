@@ -446,5 +446,19 @@
         "author": "universeDreamer",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00064",
+        "title": "Celestial Wonders",
+        "author": "galaxySeeker",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00065",
+        "title": "Astral Explorations",
+        "author": "cosmicVoyager",
+        "site": "",
+        "test": false
     }
 ]
