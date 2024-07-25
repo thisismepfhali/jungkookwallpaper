@@ -1,58 +1,86 @@
 [
-	{
-	"id": "00000",
-	"title": "Polarid Love",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	},
-	{
-	"id": "00001",
-	"title": "Blessed",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	},
-	{
-	"id": "00002",
-	"title": "Fever",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	},
-	{
-	"id": "00003",
-	"title": "Tamed",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	},
-	{
-	"id": "00004",
-	"title": "Always",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	},
-	{
-	"id": "00005",
-	"title": "Let Me In",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	},	
-	{
-	"id": "00006",
-	"title": "Upper Side Dreamin'",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	},
-	{
-	"id": "00007",
-	"title": "Go Big or Go Home",
-	"author": "Solo Leveling",
-	"site": "",
-	"test": false
-	}
+    {
+        "id": "00000",
+        "title": "Star",
+        "author": "Luna 🐰",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00001",
+        "title": "Sunshine",
+        "author": "Milo 🍓",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00002",
+        "title": "Chill",
+        "author": "Bella 🍒",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00003",
+        "title": "Glimmer",
+        "author": "Oliver 🍎",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00004",
+        "title": "Swift",
+        "author": "Zoe 🍉",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00005",
+        "title": "Vibe",
+        "author": "Charlie 🥑",
+        "site": "",
+        "test": false
+    },    
+    {
+        "id": "00006",
+        "title": "Pop",
+        "author": "Mia 🍪",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00007",
+        "title": "Shine",
+        "author": "Ethan 🥕",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00008",
+        "title": "Peek",
+        "author": "Sophie 🧁",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00009",
+        "title": "Bliss",
+        "author": "Jack 🍩",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00010",
+        "title": "Glow",
+        "author": "Ella 🍑",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00011",
+        "title": "Joy",
+        "author": "Leo 🍔",
+        "site": "",
+        "test": false
+    }
 ]
