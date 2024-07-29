@@ -460,5 +460,19 @@
         "author": "cosmicVoyager",
         "site": "",
         "test": false
+    },
+    {
+        "id": "00066",
+        "title": "Lunar Explorations",
+        "author": "moonVoyager",
+        "site": "",
+        "test": false
+    },
+    {
+        "id": "00067",
+        "title": "Stellar Mysteries",
+        "author": "starNavigator",
+        "site": "",
+        "test": false
     }
 ]
