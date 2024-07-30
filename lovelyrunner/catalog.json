@@ -82,5 +82,19 @@
 		"author": "gigglemuffin ✨",
 		"site": "",
 		"test": false
+	},
+	{
+		"id": "00012",
+		"title": "Sunny",
+		"author": "peachypop ☀️",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00013",
+		"title": "Moon",
+		"author": "lunarwhisk 🌙",
+		"site": "",
+		"test": false
 	}
 ]
