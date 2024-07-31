@@ -1,72 +1,86 @@
 [
 	{
-	"id": "00000",
-	"title": "Eunha",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00000",
+		"title": "B&W",
+		"author": "grinbubbly 🎨",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00001",
-	"title": "SinB",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00001",
+		"title": "Gray",
+		"author": "buttonpyewacket 🖌️",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00002",
-	"title": "Sowon",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00002",
+		"title": "Pink",
+		"author": "snugglepuff 🌸",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00003",
-	"title": "Umji",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00003",
+		"title": "Kitty",
+		"author": "fuzzypeach 🐱",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00004",
-	"title": "Yuju",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00004",
+		"title": "Wild",
+		"author": "twinklemist 🌿",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00005",
-	"title": "Ave Maria",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
-	},	
-	{
-	"id": "00006",
-	"title": "A Starry Sky",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00005",
+		"title": "Ro&Je",
+		"author": "pippinpaws 🌹",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00007",
-	"title": "Apple",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00006",
+		"title": "Boomb",
+		"author": "jellybean 💥",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00008",
-	"title": "Mago",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00007",
+		"title": "KTL",
+		"author": "merryspark 💔",
+		"site": "",
+		"test": false
 	},
 	{
-	"id": "00009",
-	"title": "Rough",
-	"author": "artmosphere",
-	"site": "",
-	"test": false
+		"id": "00008",
+		"title": "Shut",
+		"author": "cuddlebug 🚪",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00009",
+		"title": "Venom",
+		"author": "whiskernose 🐍",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00010",
+		"title": "Blossom",
+		"author": "sugarplum 🌷",
+		"site": "",
+		"test": false
+	},
+	{
+		"id": "00011",
+		"title": "Sparkle",
+		"author": "gigglemuffin ✨",
+		"site": "",
+		"test": false
 	}
 ]
